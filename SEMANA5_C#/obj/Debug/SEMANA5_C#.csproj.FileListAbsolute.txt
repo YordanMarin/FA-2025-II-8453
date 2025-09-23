@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\bin\Debug\SEMANA5_C#.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\bin\Debug\SEMANA5_C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\bin\Debug\SEMANA5_C#.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\obj\Debug\SEMANA5_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\obj\Debug\SEMANA5_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\obj\Debug\SEMANA5_C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA5_C#\obj\Debug\SEMANA5_C#.pdb

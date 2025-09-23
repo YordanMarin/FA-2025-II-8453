@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>9a2fa0b6-fcf6-47ae-8174-360e0fc794c0</ProjectGuid>
+    <ProjectGuid>46bbbada-a402-44c0-9ddb-61c39749c31c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejer4.py</StartupFile>
+    <StartupFile>SEMANA6_PY.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>SEMANA5_PY</Name>
-    <RootNamespace>SEMANA5_PY</RootNamespace>
-    <IsWindowsApplication>False</IsWindowsApplication>
+    <Name>SEMANA6_PY</Name>
+    <RootNamespace>SEMANA6_PY</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,11 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ejer1.py" />
-    <Compile Include="ejer2.py" />
-    <Compile Include="ejer3.py" />
-    <Compile Include="ejer4.py" />
-    <Compile Include="SEMANA5_PY.py" />
+    <Compile Include="SEMANA6_PY.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
