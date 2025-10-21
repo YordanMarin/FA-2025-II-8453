@@ -1,4 +1,7 @@
 from Triangulo import Triangulo
+from Cuadrado import Cuadrado
+
+c= Cuadrado()
 t = Triangulo()
 
 def menu1() -> None:
