@@ -1,0 +1,8 @@
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\bin\Debug\SEMANA12.exe.config
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\bin\Debug\SEMANA12.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\bin\Debug\SEMANA12.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\obj\Debug\SEMANA12.csproj.AssemblyReference.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\obj\Debug\SEMANA12.csproj.CoreCompileInputs.cache
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\obj\Debug\SEMANA12.exe
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\obj\Debug\SEMANA12.pdb
+C:\Users\YordanM\Desktop\Nueva carpeta\FA-2025-II-8453\SEMANA12\obj\Debug\SEMANA12.exe.config
